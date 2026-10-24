@@ -1,50 +1,53 @@
-# Cuaderno 06 · Solucionario del facilitador
+# Cuaderno 06 · Tres soluciones de referencia para el facilitador
 
-**Tema:** Experiencias pedagógicas
+**Correspondencia directa con el Micro-laboratorio 05: Fábrica de aplicaciones educativas inteligentes.** Estos son diseños y productos esperados; **no se afirma que se haya construido o probado realmente un prototipo**.
 
-**Correspondencia:** `cuadernos/06-aplicacion.md` y actividad del portal interactivo. Tres alternativas resueltas, para uso del facilitador. Son ejemplos ilustrativos, no resultados reales de ejecuciones de GPT.
+## Alternativa 1 · Cuento participativo animado
+- **Selector:** Cuento participativo animado.
+- **Edad:** 4 a 5 años. **Área:** Lenguaje y comunicación. **Duración:** 15 minutos.
+- **Objetivo:** reconocer personajes y narrar acciones con palabra, gesto o señalamiento.
+- **Contexto:** aula, proyector o tableta y acompañamiento docente.
+- **Modalidad:** aplicación web HTML, CSS y JavaScript.
+- **SKILL.md, nombre:** `parv-cuento-interactivo`.
+- **Procedimiento que debe contener:** validar entradas; construir tres escenas; añadir dos elecciones seguras por escena; incluir narración opcional; crear controles comenzar, siguiente, anterior y reiniciar; ofrecer participación multimodal; comprobar seguridad y calidad.
+- **Especificación:** inicio con título; tres escenas con personajes grandes; decisiones y respuestas respetuosas; cierre con recapitulación; controles accesibles.
+- **Producto esperado:** cuento navegable en navegador, no simple historia en texto.
+- **Pruebas:** los botones deben responder, las escenas no salirse de pantalla, no almacenar datos infantiles y permitir completar la actividad sin audio.
 
-## Alternativa 1 · Vocabulario del entorno
+## Alternativa 2 · Ruleta de emociones
+- **Selector:** Ruleta de emociones.
+- **Edad:** 4 a 5 años. **Área:** Desarrollo socioemocional. **Duración:** 10 minutos.
+- **Objetivo:** identificar y nombrar emociones por palabras, imágenes o movimientos voluntarios.
+- **Contexto:** espacio de juego con pantalla táctil y docente.
+- **Modalidad:** aplicación web HTML, CSS y JavaScript.
+- **SKILL.md, nombre:** `parv-ruleta-interactivo`.
+- **Procedimiento:** confirmar emociones a trabajar; programar giro con resultado visible; mostrar ejemplo no invasivo; ofrecer botón pasar turno; incorporar refuerzo sin puntuación punitiva; probar reinicio.
+- **Especificación:** ruleta con alegría, tristeza, sorpresa y calma; giro; tarjeta explicativa; gesto opcional; nueva ronda.
+- **Producto esperado:** ruleta funcional con controles grandes y participación voluntaria.
+- **Pruebas:** evitar animaciones intensas; comprobar giro y restablecimiento; no solicitar relatos personales privados ni inferir estados psicológicos.
 
-**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min, aula multiedad.
+## Alternativa 3 · Juego de clasificación con integración MCP
+- **Selector:** Juego de clasificación.
+- **Edad:** 5 a 6 años. **Área:** Pensamiento lógico. **Duración:** 20 minutos.
+- **Objetivo:** agrupar figuras grandes por forma y comunicar un criterio de clasificación.
+- **Contexto:** aula con computadora y supervisión.
+- **Modalidad:** componente visual integrado mediante servidor MCP.
+- **SKILL.md, nombre:** `parv-clasificacion-interactivo`.
+- **Procedimiento:** especificar objetivos y edad; diseñar panel de figuras con clic y alternativas a arrastrar; declarar estados del juego; definir herramientas MCP para iniciar partida, registrar una acción y reiniciar; diseñar recurso visual; comprobar permisos, estado y accesibilidad.
+- **Especificación:** componente de clasificación en interfaz visual; herramientas disponibles para gestionar estado; servidor MCP alojado y configuración de integración con ChatGPT.
+- **Producto esperado:** proyecto de servidor MCP y componente visual **por desarrollar**. El `SKILL.md` y la especificación no constituyen por sí mismos una integración funcional.
+- **Pruebas pendientes de ejecución real:** llamadas a herramientas, comunicación interfaz-servidor, reinicio, validación de estado, accesibilidad y ausencia de datos personales.
 
-**Producto o respuesta 2.** Apertura (4): explorar imágenes de animales del entorno. Desarrollo (12): elegir, nombrar, describir por color/tamaño y escuchar turnos. Cierre (4): recuperar palabras nuevas.
+## Rúbrica de revisión para las tres alternativas
+| Criterio | Evidencia exigible |
+|---|---|
+| Coherencia didáctica | Objetivo observable y mecánica adecuados |
+| Interactividad | Controles con comportamiento definido |
+| Accesibilidad | Alternativas a arrastre/audio, textos e iconos claros |
+| Seguridad | Contenido y materiales apropiados, sin datos identificables |
+| Validación | Registro explícito de pruebas ejecutadas o pendientes |
 
-**Verificación 3.** Materiales: tarjetas grandes de esquinas seguras; adaptaciones: señalamiento y pictogramas.
-
-**Reflexión o prueba 4.** Indicadores: nombra o señala tres animales; comunica atributo; participa por una vía accesible.
-
-**Complemento 5.** Extensión de motricidad fina: manipular piezas grandes de papel sobre rutas, ajustando objetivos e indicadores sin cambiar seguridad e inclusión.
-
-## Alternativa 2 · Mercado de las palabras
-
-**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min.
-
-**Producto o respuesta 2.** Apertura (4): observar frutas ilustradas. Desarrollo (12): describir color, tamaño o nombre durante un juego de mercado. Cierre (4): compartir palabras favoritas.
-
-**Verificación 3.** Materiales: láminas grandes y cajas seguras; adaptar turnos, tarjetas visuales y comunicación alternativa.
-
-**Reflexión o prueba 4.** Indicadores: identifica objetos; comunica atributo; responde o participa.
-
-**Complemento 5.** Extensión de motricidad: ordenar tiras anchas de cartón con ayuda; observar coordinación manual, no competencia oral.
-
-## Alternativa 3 · Historias con tarjetas
-
-**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min.
-
-**Producto o respuesta 2.** Apertura (4): presentar personajes grandes. Desarrollo (12): secuenciar tres escenas y describir acciones. Cierre (4): relatar el final en grupo.
-
-**Verificación 3.** Materiales: imágenes grandes plastificadas; apoyos: elección de escenas sin respuesta oral obligatoria.
-
-**Reflexión o prueba 4.** Indicadores: selecciona secuencia; nombra personaje; contribuye al relato.
-
-**Complemento 5.** Extensión de motricidad: pegar tarjetas con adhesivo no tóxico y agarres adaptados; evaluar manipulación accesible.
-
-## Pauta común de revisión
-
-Verificar: correspondencia entre entrada y producto; claridad de instrucciones; pertinencia del grupo etario; seguridad de materiales; accesibilidad; evaluación observacional sin diagnósticos; tratamiento responsable de datos infantiles.
-
-**Alcance de la herramienta:** los analizadores del portal aplican reglas locales y producen modelos estructurados. No sustituyen validación humana, no consultan fuentes de forma automática y no prueban el Skill en GPT.
+**Uso interno del facilitador:** contrastar los artefactos de los participantes y diferenciar una especificación de un producto realmente ejecutable.
 
 ---
 © Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
