@@ -1,5 +1,13 @@
 # PARV-LAB-GPT_V01
 
+## 🌐 Acceso directo al portal interactivo
+
+### **[▶ INGRESAR AL LABORATORIO INTERACTIVO](https://pablojoseguerrero.github.io/PARV-LAB-GPT_V01/)**
+
+**Sitio para docentes y participantes:** https://pablojoseguerrero.github.io/PARV-LAB-GPT_V01/
+
+---
+
 ## Laboratorio de Skills Inteligentes con GPT para la Educación Parvularia
 **Diseño y creación de herramientas inteligentes para el desarrollo integral y el aprendizaje infantil.**
 
