@@ -1,131 +1,44 @@
-# Cuaderno 02 — Actividad resuelta (referencia para el facilitador)
+# Cuaderno 02 · Solucionario del facilitador
 
-> **Ubicación:** recurso de consulta interna del repositorio. No enlazar desde el portal ni desde la interfaz de actividades de participantes.
+**Tema:** Texto plano, Markdown y vista previa
 
-## 1. Texto plano inicial
+**Correspondencia:** `cuadernos/02-markdown.md` y actividad del portal interactivo. Tres alternativas resueltas, para uso del facilitador. Son ejemplos ilustrativos, no resultados reales de ejecuciones de GPT.
 
-Skill: Cuentos participativos
-Propósito
-Diseñar cuentos lúdicos para niños de 4 a 5 años que promuevan la comunicación oral.
-Entradas
-Edad: 4 a 5 años
-Área: lenguaje oral
-Duración: 15 minutos
-Contexto: aula de Educación Parvularia
-Materiales: láminas ilustradas grandes y seguras
-Procedimiento
-Presentar personajes e invitar a nombrarlos
-Narrar una historia breve y detenerse en momentos de participación
-Pedir a los niños anticipar qué ocurrirá
-Cerrar con una conversación sobre el relato
-Validación
-Materiales seguros y adecuados a la edad
-Participación voluntaria y adaptaciones inclusivas
-Indicadores observables sin diagnósticos
+## Alternativa 1 · Cuentos participativos
 
-## 2. Markdown estructurado resultante
+**Desarrollo 1.** Texto plano: Skill: Cuentos participativos | Propósito | Favorecer lenguaje oral | Entradas | Edad: 4–5 años | Duración: 15 minutos | Validación | Materiales seguros.
 
-```markdown
-# Skill: Cuentos participativos
+**Producto o respuesta 2.** Markdown: `# Skill: Cuentos participativos` / `## Propósito` / `Favorecer **lenguaje oral**` / `## Entradas` / `- Edad: 4–5 años` / `- Duración: 15 minutos` / `## Validación` / `- Materiales seguros`.
 
-## Propósito
-Diseñar **cuentos lúdicos** para niños de 4 a 5 años
-que promuevan la **comunicación oral**.
+**Verificación 3.** Vista previa: título principal, subtítulos «Propósito», «Entradas», «Validación», negrita «lenguaje oral» y viñetas. El editor permite ajustar las negritas manualmente.
 
-## Entradas
-- **Edad:** 4 a 5 años
-- **Área:** lenguaje oral
-- **Duración:** 15 minutos
-- **Contexto:** aula de Educación Parvularia
-- **Materiales:** láminas ilustradas grandes y seguras
+**Reflexión o prueba 4.** SKILL.md: metadatos `name: cuentos-participativos` y `description: Diseña relatos dialogados para docentes...`; procedimiento de cuatro pasos: recibir edad y recursos, escribir relato, añadir interacciones, validar seguridad e inclusión.
 
-## Procedimiento
-1. Presentar personajes e invitar a nombrarlos.
-2. Narrar una historia breve y detenerse para promover la participación.
-3. Pedir a los niños anticipar qué ocurrirá.
-4. Cerrar con una conversación sobre el relato.
+## Alternativa 2 · Formas y colores
 
-## Validación
-- Utilizar materiales seguros y adecuados a la edad.
-- Promover participación voluntaria y adaptaciones inclusivas.
-- Formular indicadores observables sin diagnósticos.
-```
+**Desarrollo 1.** Texto plano: Skill: Museo de formas | Propósito | Clasificar figuras | Entradas | Edad: 5–6 años | Materiales: cartón grande | Validación | Sin piezas pequeñas.
 
-## 3. Vista previa: resultado esperado
+**Producto o respuesta 2.** Markdown: `# Skill: Museo de formas` / `## Propósito` / `Clasificar **formas**` / `## Entradas` / `- Edad: 5–6 años` / `- Materiales: cartón grande` / `## Validación` / `- Sin piezas pequeñas`.
 
-# Skill: Cuentos participativos
+**Verificación 3.** Vista previa: jerarquía de encabezados, etiqueta resaltada «formas» y lista legible.
 
-### Propósito
-Diseñar **cuentos lúdicos** para niños de 4 a 5 años que promuevan la **comunicación oral**.
+**Reflexión o prueba 4.** SKILL.md: `name: museo-de-formas`; `description: Diseña juegos de clasificación seguros...`; pasos: obtener contexto, seleccionar criterio, definir turnos, incluir observación.
 
-### Entradas
-- **Edad:** 4 a 5 años
-- **Área:** lenguaje oral
-- **Duración:** 15 minutos
-- **Contexto:** aula de Educación Parvularia
-- **Materiales:** láminas ilustradas grandes y seguras
+## Alternativa 3 · Educación emocional
 
-### Procedimiento
-1. Presentar personajes e invitar a nombrarlos.
-2. Narrar una historia breve y detenerse para promover la participación.
-3. Pedir a los niños anticipar qué ocurrirá.
-4. Cerrar con una conversación sobre el relato.
+**Desarrollo 1.** Texto plano: Skill: Rueda de emociones | Propósito | Nombrar emociones | Entradas | Edad: 4–5 años | Duración: 10 minutos | Validación | Participación voluntaria.
 
-### Validación
-- Utilizar materiales seguros y adecuados a la edad.
-- Promover participación voluntaria y adaptaciones inclusivas.
-- Formular indicadores observables sin diagnósticos.
+**Producto o respuesta 2.** Markdown: `# Skill: Rueda de emociones` / `## Propósito` / `Nombrar **emociones**` / `## Entradas` / `- Edad: 4–5 años` / `- Duración: 10 minutos` / `## Validación` / `- Participación voluntaria`.
 
-## 4. Explicación de la transformación
+**Verificación 3.** Vista previa: título, subtítulos, negrita y viñetas. La transformación del portal es por reglas y admite ajuste manual.
 
-| Elemento | Texto plano | Markdown | Resultado visual |
-|---|---|---|---|
-| Título | Skill: Cuentos participativos | `# Skill: Cuentos participativos` | Encabezado principal |
-| Sección | Propósito | `## Propósito` | Subtítulo |
-| Lista | Edad: 4 a 5 años | `- **Edad:** 4 a 5 años` | Viñeta con etiqueta destacada |
-| Proceso | Narrar una historia | `2. Narrar una historia...` | Paso numerado |
-| Énfasis | comunicación oral | `**comunicación oral**` | Negrita |
+**Reflexión o prueba 4.** SKILL.md: `name: rueda-de-emociones`; `description: Genera propuestas lúdicas de alfabetización emocional...`; pasos: precisar emociones, diseñar escenas, ofrecer respuestas libres, comprobar límites no diagnósticos.
 
-**Nota didáctica:** el convertidor del portal demuestra reglas sencillas y no transforma automáticamente todos los elementos de esta solución (por ejemplo, las negritas y numeración deben perfeccionarse en el editor). La vista previa del portal representa un subconjunto de Markdown; una vista previa completa en GitHub puede mostrar elementos adicionales.
+## Pauta común de revisión
 
-## 5. Modelo mínimo de archivo SKILL.md
+Verificar: correspondencia entre entrada y producto; claridad de instrucciones; pertinencia del grupo etario; seguridad de materiales; accesibilidad; evaluación observacional sin diagnósticos; tratamiento responsable de datos infantiles.
 
-```markdown
----
-name: cuentos-participativos
-description: Diseña cuentos participativos para docentes de Educación Parvularia, adaptados a edad, lenguaje oral y materiales disponibles.
----
-
-# Cuentos participativos
-
-## Entradas
-Solicita rango de edad, área, duración, contexto y materiales.
-
-## Procedimiento
-1. Formula un objetivo de comunicación oral observable.
-2. Diseña una historia breve con participación activa.
-3. Propone intervenciones docentes y apoyos inclusivos.
-4. Comprueba seguridad, pertinencia y evaluación formativa.
-
-## Salida
-Entrega título, objetivo, personajes, secuencia, materiales,
-preguntas participativas e indicadores de observación.
-
-## Límites
-No solicites datos identificables de menores ni emitas diagnósticos.
-```
-
-## 6. Criterios para evaluar el ejercicio
-
-- Reconoce el paso de texto plano a estructura Markdown.
-- Emplea encabezados, listas y énfasis con sintaxis correcta.
-- Distingue el aspecto visual del texto fuente.
-- Construye un SKILL.md con metadatos y procedimiento coherente.
-- Incorpora pertinencia evolutiva, seguridad e inclusión.
-- Explica que Markdown no equivale a ejecución automática de un Skill.
-
-**Uso sugerido:** comparar esta solución con los productos de los participantes al finalizar la actividad, no antes.
+**Alcance de la herramienta:** los analizadores del portal aplican reglas locales y producen modelos estructurados. No sustituyen validación humana, no consultan fuentes de forma automática y no prueban el Skill en GPT.
 
 ---
-
 © Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
