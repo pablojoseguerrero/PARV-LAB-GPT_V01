@@ -7,5 +7,5 @@ Indicadores observables, sin etiquetas diagnósticas y sin atribuir capacidades 
 Instrumento de observación, instrucciones de aplicación y propuesta de retroalimentación respetuosa.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
