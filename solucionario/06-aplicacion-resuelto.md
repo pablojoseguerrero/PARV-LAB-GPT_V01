@@ -1,37 +1,50 @@
-# Cuaderno 06 · Solución integral: experiencias de aprendizaje infantil
+# Cuaderno 06 · Solucionario del facilitador
 
-## Caso A · Lenguaje oral
-**Grupo:** 4–5 años; aula multiedad; 20 minutos.
-**Título:** El mercado de las palabras.
-**Propósito observable:** nombrar y describir objetos familiares usando una o más características con apoyos.
-**Apertura (4 min):** observar ilustraciones grandes de frutas locales, anticipar palabras.
-**Desarrollo (12 min):** puesto de mercado simulado; elegir imágenes, describir color o forma; turnos breves; ofrecer señalamientos y apoyos visuales.
-**Cierre (4 min):** recapitulación de vocabulario; cada participante elige su palabra favorita.
-**Materiales:** láminas grandes, cajas sin bordes cortantes, recipientes seguros.
-**Adaptaciones:** pictogramas, turnos flexibles y comunicación multimodal.
-**Indicadores:** denomina/señala objetos; comunica características; interviene en juego compartido.
+**Tema:** Experiencias pedagógicas
 
-## Caso B · Motricidad fina
-**Grupo:** 4–5 años; 20 minutos.
-**Título:** Caminos de papel.
-**Propósito:** realizar trazos y manipular tiras anchas de papel para explorar coordinación manual.
-**Apertura (4 min):** movimientos de manos y demostración.
-**Desarrollo (12 min):** seguir caminos gruesos con dedo y colocar tiras grandes sobre rutas dibujadas; ofrecer grosor y superficie adaptados.
-**Cierre (4 min):** mostrar producciones sin comparaciones entre niñas y niños.
-**Materiales:** papel grueso, adhesivo no tóxico y superficies estables.
-**Adaptaciones:** apoyos de agarre, asistencia, versiones táctiles grandes.
-**Indicadores:** sigue trayectoria, manipula material, participa según posibilidades.
+**Correspondencia:** `cuadernos/06-aplicacion.md` y actividad del portal interactivo. Tres alternativas resueltas, para uso del facilitador. Son ejemplos ilustrativos, no resultados reales de ejecuciones de GPT.
 
-## Comparación didáctica
-| Componente | Caso A | Caso B |
-|---|---|---|
-| Área | Lenguaje oral | Motricidad fina |
-| Acción observable | Nombrar/describir/señalar | Trazar/manipular |
-| Material | Ilustraciones grandes | Papel y adhesivo seguro |
-| Inclusión | Comunicación multimodal | Ajustes de agarre y superficie |
-| Evaluación | Registro oral | Observación de participación y movimientos |
+## Alternativa 1 · Vocabulario del entorno
 
-**Justificación:** ambos priorizan juego, exploración segura, distintas formas de participación y mediación docente. No permiten inferir diagnósticos ni calificar capacidades fijas.
+**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min, aula multiedad.
+
+**Producto o respuesta 2.** Apertura (4): explorar imágenes de animales del entorno. Desarrollo (12): elegir, nombrar, describir por color/tamaño y escuchar turnos. Cierre (4): recuperar palabras nuevas.
+
+**Verificación 3.** Materiales: tarjetas grandes de esquinas seguras; adaptaciones: señalamiento y pictogramas.
+
+**Reflexión o prueba 4.** Indicadores: nombra o señala tres animales; comunica atributo; participa por una vía accesible.
+
+**Complemento 5.** Extensión de motricidad fina: manipular piezas grandes de papel sobre rutas, ajustando objetivos e indicadores sin cambiar seguridad e inclusión.
+
+## Alternativa 2 · Mercado de las palabras
+
+**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min.
+
+**Producto o respuesta 2.** Apertura (4): observar frutas ilustradas. Desarrollo (12): describir color, tamaño o nombre durante un juego de mercado. Cierre (4): compartir palabras favoritas.
+
+**Verificación 3.** Materiales: láminas grandes y cajas seguras; adaptar turnos, tarjetas visuales y comunicación alternativa.
+
+**Reflexión o prueba 4.** Indicadores: identifica objetos; comunica atributo; responde o participa.
+
+**Complemento 5.** Extensión de motricidad: ordenar tiras anchas de cartón con ayuda; observar coordinación manual, no competencia oral.
+
+## Alternativa 3 · Historias con tarjetas
+
+**Desarrollo 1.** Grupo 4–5 años, lenguaje oral, 20 min.
+
+**Producto o respuesta 2.** Apertura (4): presentar personajes grandes. Desarrollo (12): secuenciar tres escenas y describir acciones. Cierre (4): relatar el final en grupo.
+
+**Verificación 3.** Materiales: imágenes grandes plastificadas; apoyos: elección de escenas sin respuesta oral obligatoria.
+
+**Reflexión o prueba 4.** Indicadores: selecciona secuencia; nombra personaje; contribuye al relato.
+
+**Complemento 5.** Extensión de motricidad: pegar tarjetas con adhesivo no tóxico y agarres adaptados; evaluar manipulación accesible.
+
+## Pauta común de revisión
+
+Verificar: correspondencia entre entrada y producto; claridad de instrucciones; pertinencia del grupo etario; seguridad de materiales; accesibilidad; evaluación observacional sin diagnósticos; tratamiento responsable de datos infantiles.
+
+**Alcance de la herramienta:** los analizadores del portal aplican reglas locales y producen modelos estructurados. No sustituyen validación humana, no consultan fuentes de forma automática y no prueban el Skill en GPT.
 
 ---
 © Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
