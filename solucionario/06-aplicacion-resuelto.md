@@ -1,6 +1,6 @@
 # Cuaderno 06 · Tres soluciones de referencia para el facilitador
 
-**Correspondencia directa con el Micro-laboratorio 05: Fábrica de aplicaciones educativas inteligentes.** Estos son diseños y productos esperados; **no se afirma que se haya construido o probado realmente un prototipo**.
+**Correspondencia directa con el Micro-laboratorio 05: Fábrica de aplicaciones educativas inteligentes.** El producto principal que se descarga es un único `SKILL.md` con instrucciones y especificaciones integradas; el segundo `.md` es opcional. Estos son diseños y productos esperados; **no se afirma que se haya construido o probado realmente un prototipo**.
 
 ## Alternativa 1 · Cuento participativo animado
 - **Selector:** Cuento participativo animado.
@@ -10,7 +10,7 @@
 - **Modalidad:** aplicación web HTML, CSS y JavaScript.
 - **SKILL.md, nombre:** `parv-cuento-interactivo`.
 - **Procedimiento que debe contener:** validar entradas; construir tres escenas; añadir dos elecciones seguras por escena; incluir narración opcional; crear controles comenzar, siguiente, anterior y reiniciar; ofrecer participación multimodal; comprobar seguridad y calidad.
-- **Especificación:** inicio con título; tres escenas con personajes grandes; decisiones y respuestas respetuosas; cierre con recapitulación; controles accesibles.
+- **Especificación incorporada en el SKILL.md:** inicio con título; tres escenas con personajes grandes; decisiones y respuestas respetuosas; cierre con recapitulación; controles accesibles.
 - **Producto esperado:** cuento navegable en navegador, no simple historia en texto.
 - **Pruebas:** los botones deben responder, las escenas no salirse de pantalla, no almacenar datos infantiles y permitir completar la actividad sin audio.
 
@@ -22,7 +22,7 @@
 - **Modalidad:** aplicación web HTML, CSS y JavaScript.
 - **SKILL.md, nombre:** `parv-ruleta-interactivo`.
 - **Procedimiento:** confirmar emociones a trabajar; programar giro con resultado visible; mostrar ejemplo no invasivo; ofrecer botón pasar turno; incorporar refuerzo sin puntuación punitiva; probar reinicio.
-- **Especificación:** ruleta con alegría, tristeza, sorpresa y calma; giro; tarjeta explicativa; gesto opcional; nueva ronda.
+- **Especificación incorporada en el SKILL.md:** ruleta con alegría, tristeza, sorpresa y calma; giro; tarjeta explicativa; gesto opcional; nueva ronda.
 - **Producto esperado:** ruleta funcional con controles grandes y participación voluntaria.
 - **Pruebas:** evitar animaciones intensas; comprobar giro y restablecimiento; no solicitar relatos personales privados ni inferir estados psicológicos.
 
@@ -34,7 +34,7 @@
 - **Modalidad:** componente visual integrado mediante servidor MCP.
 - **SKILL.md, nombre:** `parv-clasificacion-interactivo`.
 - **Procedimiento:** especificar objetivos y edad; diseñar panel de figuras con clic y alternativas a arrastrar; declarar estados del juego; definir herramientas MCP para iniciar partida, registrar una acción y reiniciar; diseñar recurso visual; comprobar permisos, estado y accesibilidad.
-- **Especificación:** componente de clasificación en interfaz visual; herramientas disponibles para gestionar estado; servidor MCP alojado y configuración de integración con ChatGPT.
+- **Especificación incorporada en el SKILL.md:** componente de clasificación en interfaz visual; herramientas disponibles para gestionar estado; servidor MCP alojado y configuración de integración con ChatGPT.
 - **Producto esperado:** proyecto de servidor MCP y componente visual **por desarrollar**. El `SKILL.md` y la especificación no constituyen por sí mismos una integración funcional.
 - **Pruebas pendientes de ejecución real:** llamadas a herramientas, comunicación interfaz-servidor, reinicio, validación de estado, accesibilidad y ausencia de datos personales.
 
