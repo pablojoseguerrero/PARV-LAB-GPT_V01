@@ -15,5 +15,5 @@ Completa la ficha pensando en un problema real sin aportar datos identificables 
 Ficha de arquitectura revisada por un colega.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
