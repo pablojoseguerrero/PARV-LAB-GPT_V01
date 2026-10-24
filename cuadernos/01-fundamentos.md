@@ -10,5 +10,5 @@ Investiga con un tokenizador adecuado al modelo cómo se segmenta «Aprendemos j
 Tabla comparativa de dos respuestas y una mejora realizada.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
