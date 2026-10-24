@@ -9,5 +9,5 @@ Elabora un Skill para revisar una planificación con criterios institucionales a
 Documenta la arquitectura, tres pruebas, observaciones, límites y versión mejorada. No compartas datos personales de menores.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
