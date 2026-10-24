@@ -26,5 +26,5 @@ No solicitar datos identificables de menores. No emitir diagnósticos clínicos.
 La actividad debe corresponder a la edad, incluir al menos una decisión inclusiva y permitir observar aprendizajes sin etiquetar a los niños.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
