@@ -6,5 +6,5 @@ Clasifica: (a) responder consulta didáctica, (b) consultar currículo desde doc
 Describe la solución técnica apropiada en dos casos de Educación Parvularia y explica por qué pueden combinarse.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
