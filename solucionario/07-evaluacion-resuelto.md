@@ -1,32 +1,44 @@
-# Cuaderno 07 · Solución integral: observación y evaluación formativa
+# Cuaderno 07 · Solucionario del facilitador
 
-## Contexto
-Juego: «El mercado de las palabras», grupo de 4–5 años. Registro sin nombres reales; usar códigos ficticios y no publicar información individual de menores.
+**Tema:** Evaluación formativa
 
-## Lista de cotejo modelo
-| Indicador observable | Sí | En proceso | No observado | Evidencia descriptiva |
-|---|---|---|---|---|
-| Participa en al menos un turno por vía oral o alternativa | ☐ | ☐ | ☐ | Describir acción |
-| Identifica objetos por nombre, gesto o señalamiento | ☐ | ☐ | ☐ | Registrar ejemplo |
-| Comunica una característica de un objeto | ☐ | ☐ | ☐ | Registrar expresión |
-| Comparte materiales con mediación, cuando corresponde | ☐ | ☐ | ☐ | Describir contexto |
-| Escucha o atiende a una intervención de un compañero según sus posibilidades | ☐ | ☐ | ☐ | Registrar apoyo ofrecido |
+**Correspondencia:** `cuadernos/07-evaluacion.md` y actividad del portal interactivo. Tres alternativas resueltas, para uso del facilitador. Son ejemplos ilustrativos, no resultados reales de ejecuciones de GPT.
 
-## Ejemplo ficticio de observación
-**Código simulado:** A-01. Durante una ronda, señaló una tarjeta de manzana y expresó «roja» después de observar el modelo de su compañero. Se le ofrecieron dos tarjetas para elegir. **Interpretación pedagógica limitada:** evidencia de participación comunicativa con apoyo; no implica diagnóstico ni nivel clínico.
+## Alternativa 1 · Cotejo de juego de mercado
 
-## Instrucciones de aplicación
-1. Observar durante actividades naturales, no en pruebas rígidas.
-2. Marcar «no observado» cuando no haya ocasión suficiente; no confundir con incapacidad.
-3. Escribir conductas específicas, evitando adjetivos estigmatizantes.
-4. Registrar los apoyos ofrecidos y ajustar las experiencias posteriores.
-5. Conservar registros bajo las reglas institucionales de privacidad.
+**Desarrollo 1.** Actividad: «Mercado de palabras», 4–5 años. Indicadores: participa en turno; identifica objeto por palabra/gesto; comunica característica; comparte material con mediación.
 
-## Retroalimentación respetuosa
-«Hoy exploramos nombres y características. Seguiremos ofreciendo imágenes y oportunidades de conversar para que todos participen de diferentes maneras».
+**Producto o respuesta 2.** Escala: Sí | En proceso | No observado; columna de evidencia concreta y apoyos brindados.
 
-## Criterios de calidad
-Indicadores observables, lenguaje no diagnóstico, inclusión y protección de datos. **Evidencia:** instrumento, protocolo y retroalimentación modelo.
+**Verificación 3.** Aplicación: observar sin interrumpir; registrar conducta, no personalidad; no observado ≠ incapacidad.
+
+**Reflexión o prueba 4.** Retroalimentación: «Hoy exploramos objetos con palabras y gestos; ofreceremos nuevas ocasiones para describirlos».
+
+## Alternativa 2 · Cotejo de cuento compartido
+
+**Desarrollo 1.** Actividad: «Nube siente alegría», 4–5 años. Indicadores: expresa o señala emoción; propone acción amable; participa en escena; escucha según sus posibilidades.
+
+**Producto o respuesta 2.** Escala: Sí | En proceso | No observado; anotar situación, forma de comunicación y ayuda.
+
+**Verificación 3.** Aplicación: permitir participación voluntaria y alternativas no verbales, evitar inferir estados internos.
+
+**Reflexión o prueba 4.** Retroalimentación: «Usamos historias para conocer distintas maneras de sentir y expresarse».
+
+## Alternativa 3 · Cotejo de clasificación
+
+**Desarrollo 1.** Actividad: «Museo de formas», 5–6 años. Indicadores: selecciona criterio; agrupa figuras grandes; comunica elección oralmente o señalando; modifica agrupación con ayuda.
+
+**Producto o respuesta 2.** Escala: Sí | En proceso | No observado; registrar apoyos disponibles.
+
+**Verificación 3.** Aplicación: observación continua, criterios claros, resguardo de registros.
+
+**Reflexión o prueba 4.** Retroalimentación: «Probamos diferentes maneras de ordenar formas y explicamos elecciones».
+
+## Pauta común de revisión
+
+Verificar: correspondencia entre entrada y producto; claridad de instrucciones; pertinencia del grupo etario; seguridad de materiales; accesibilidad; evaluación observacional sin diagnósticos; tratamiento responsable de datos infantiles.
+
+**Alcance de la herramienta:** los analizadores del portal aplican reglas locales y producen modelos estructurados. No sustituyen validación humana, no consultan fuentes de forma automática y no prueban el Skill en GPT.
 
 ---
 © Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
