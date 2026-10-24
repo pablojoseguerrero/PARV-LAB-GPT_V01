@@ -13,7 +13,7 @@ Portal formativo de 90 minutos para docentes de grado y posgrado. Presentación 
 
 **Sitio institucional:** https://guerrero-consultores.com/
 
-**Autoría:** © Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+**Autoría:** © Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 
 **Uso de los materiales:** consulta desde el portal; los archivos de práctica SKILL.md y plantillas pueden descargarse. No utilizar datos personales de niñas y niños.
 
