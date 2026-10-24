@@ -9,5 +9,5 @@
 Tu archivo SKILL.md, un registro de prueba y una mejora específica.
 
 ---
-© Prof. Dr. Pablo José Guerrero. - www.guerrero.consultores.com
+© Prof. Dr. Pablo José Guerrero. 2026 - https://guerrero-consultores.com/
 Sitio oficial: https://guerrero-consultores.com/
